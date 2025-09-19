@@ -1,0 +1,17 @@
+2025-09-19 15:06:38,155 - INFO - WDM - ====== WebDriver manager ======
+2025-09-19 15:06:38,884 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-09-19 15:06:39,220 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-09-19 15:06:39,323 - INFO - WDM - Driver [C:\Users\CK NITHYAKALA\.wdm\drivers\chromedriver\win64\140.0.7339.185\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-19 15:06:46,694 - INFO - root - The application is loaded successully.
+2025-09-19 15:06:46,978 - INFO - root - The title is displayed as GUVI | Learn to code in your native language.
+2025-09-19 15:06:47,273 - INFO - root - Dobby Assistant is displayed on Home Page.
+2025-09-19 15:06:47,639 - INFO - root - Courses, Live Classes and Practices are displayed and accessible on Home Page.
+2025-09-19 15:06:49,339 - INFO - root - Signup is displayed and enabled on Home Page.
+2025-09-19 15:06:49,353 - INFO - root - Register Page is displayed when clicking Sign up button on Home Page.
+2025-09-19 15:06:56,219 - INFO - root - Sign-In Page is displayed when click Login on Register Page.
+2025-09-19 15:06:58,112 - INFO - root - We are able to Login after registering the details.
+2025-09-19 15:07:00,815 - INFO - root - Login button is displayed and enabled.
+2025-09-19 15:07:00,828 - INFO - root - User is able to navigate to Sign-In page when clicking Login button on Home Page.
+2025-09-19 15:07:02,213 - INFO - root - Error message is displayed for invalid username and password.
+2025-09-19 15:07:03,781 - INFO - root - User is able to navigate to dashboard page with valid credentials.
+2025-09-19 15:07:05,871 - INFO - root - Logout is done properly.
